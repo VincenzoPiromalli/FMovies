@@ -49,5 +49,5 @@ We are constantly working to make your experience better with every updates. Get
 
 [Live Demo](https://fmovies.black/) 
 
-[Buy Now](https://fr0zen.sellix.io/product/632f053ce5e00)
+
 
