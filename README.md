@@ -2,7 +2,7 @@
 
 FMovies WordPress Clone is based on the design of the popular site FMovies.
 
-Created with bootstrap 4.5 library, mobile friendly, simple, fast, lightweight and functional template with built-in premium importer, and allows you to create a movie, tv series & anime database, such as Flixhq, [FMovies](https://fmovies.black/), Himovies, 123movies, Moviestars ecc…
+Created with bootstrap 4.5 library, mobile friendly, simple, fast, lightweight and functional template with built-in premium importer, and allows you to create a movie, tv series & anime database, such as [Flixhq](https://flixhq.click/), [FMovies](https://fmovies.black/), Himovies, 123movies, Moviestars ecc…
 
 Maybe you should create a worthy competitor and become the largest site? Then let's begin!
 
